@@ -10,5 +10,6 @@
 * Disable sharing of the _Home Folders_ ... at the very least disable sharing of the following:
    * Desktop
    * Documents
+   
    Prevents weird issues when creating a new VM, which picks up old configuration files, especially so for PowerShell profile.
 
