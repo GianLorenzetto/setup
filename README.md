@@ -16,7 +16,7 @@ Quick links:
 
 ### Text Editor
 
-* [Sublime Text](http://www.sublimetext.com) **[MAC, Windows]**
+* [Sublime Text](http://www.sublimetext.com) **[Mac, Windows]**
 
    Incredible text editor with a myriad of plugins.
 
@@ -26,7 +26,7 @@ Quick links:
 
    Git ... and don't forget to setup your [.gitignore](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore)
 
-* [Source Tree](https://www.sourcetreeapp.com) **[MAC, Windows]**
+* [Source Tree](https://www.sourcetreeapp.com) **[Mac, Windows]**
 
    For those rare times when the Git console doesn't cut it, I like Source Tree. There are numerous alternatives, including:
    * [GitHub for Windows](https://desktop.github.com) **[Windows]**
@@ -38,9 +38,9 @@ Quick links:
 
    Really nice Git enhancements module for PowerShell.
 
-### File Commpare
+### File Compare
 
-* [Beyond Compare](http://www.scootersoftware.com) **[MAC, Windows]**
+* [Beyond Compare](http://www.scootersoftware.com) **[Mac, Windows]**
 
    My all time favourite file and folder comparison tool.
 
@@ -50,11 +50,11 @@ Quick links:
 
    Fabulous console replacement based on [ConEmu](https://conemu.github.io). Defaults to Monokai colour theme and allows you to run PowerShell side-by-side with Git Bash and a regular console. Nice.
 
-* [iTerm2](https://www.iterm2.com) **[MAC]**
+* [iTerm2](https://www.iterm2.com) **[Mac]**
 
    Nice `Terminal` replacement. Goes very nicely with the next item ...
 
-* [Oh My Zsh!](https://github.com/robbyrussell/oh-my-zsh) **[MAC]**
+* [Oh My Zsh!](https://github.com/robbyrussell/oh-my-zsh) **[Mac]**
 
    Zsh command terminal, with some cool features right out of the box and lots of plugins.
 
@@ -82,13 +82,13 @@ Quick links:
 
    Handy little utility for automatically switching your proxy settings when you're network connection changes. Eg, switching between an ethernet and WiFi connection.
 
-* [Cntlm](http://cntlm.sourceforge.net) **[MAC, Windows]**
+* [Cntlm](http://cntlm.sourceforge.net) **[Mac, Windows]**
 
    Great tool for accessing Windows NTLM authenticating proxy servers. Also great at working-_around_ NTML authenticating proxies.
 
 ### Screen Capture
 
-* [Skitch](https://itunes.apple.com/au/app/skitch-snap.-mark-up.-send./id490505997?mt=8) **[MAC]**
+* [Skitch](https://itunes.apple.com/au/app/skitch-snap.-mark-up.-send./id490505997?mt=8) **[Mac]**
 
    Free (and paid for Pro edition) screen capture tool for Mac, with some basic but nifty annotation tools. Grab it from your local App Store.
 
@@ -96,7 +96,7 @@ Quick links:
 
    Great screen capture tool, although it does a lot more than just grab screenshots. Record video, edit captures plus loads more. Not free though ... if you're just after screen grabs, then:
 
-   [Greenshot](http://getgreenshot.org)
+* [Greenshot](http://getgreenshot.org) **[Windows]**
 
    Great free screen capture tool for Windows.
 
@@ -110,7 +110,7 @@ Quick links:
 
    Free Photoshop clone. Available for Windows as well, but I much prefer Paint.NET.
 
-* [Handbrake](https://handbrake.fr) **[MAC, Windows]**
+* [Handbrake](https://handbrake.fr) **[Mac, Windows]**
 
    Great utility for transcoding pretty much any video format into any other video format :)
 
