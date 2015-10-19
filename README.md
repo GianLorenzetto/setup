@@ -4,6 +4,10 @@ A list of tools, utilities and links that I find useful when configuring a new d
 
 Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools List](http://hanselman.com/tools).
 
+Quick links:
+* [Windows](#windows)
+* [Mac](#mac os x)
+
 ## Windows
 
 * [Sublime Text](http://www.sublimetext.com)
@@ -22,6 +26,10 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 
    I don't use Git GUI's enough to know if one is significant;y beter than another.
 
+* [PoshGit](https://github.com/dahlbyk/posh-git) 
+
+   Really nice Git enhancements module for PowerShell.
+
 * [Cmder](http://cmder.net)
 
    Fabulous console replacement based on [ConEmu](https://conemu.github.io). Defaults to Monokai colour theme and allows you to run PowerShell side-by-side with Git Bash and a regular console. Nice.
@@ -32,8 +40,35 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 
 * [WinDirStat](https://windirstat.info)
 
-   Very handy free disk usage viewer.
+   Nice free disk usage viewer.
 
+* [Windows SysInternals](https://technet.microsoft.com/en-us/sysinternals/bb545021.aspx)
+
+   Some nice utilities for analyszing Windows system processes and performance. Thikn `Task Manager` on steroids. 
+
+* [Fiddler](http://www.telerik.com/fiddler)
+
+   Great free web debugging tool.
+
+* [WireShark](https://www.wireshark.org)
+
+   Network analyzer.
+
+* [Snagit](https://www.techsmith.com/snagit.html)
+
+   Great screen capture tool, although it does a lot more than just grab screenshots. Record video, edit captures plus loads more. Not free though ... if you're just after screen grabs, then:
+
+   [Greenshot](http://getgreenshot.org)
+
+   Great free screen capture tool for Windows.
+
+* [Proxy Switcher](http://proxyswitcher.net)
+
+   Handy little utility for automatically switching your proxy settings when you're network connection changes. Eg, switching between an ethernet and WiFi connection.
+
+* [Cntlm](http://cntlm.sourceforge.net)
+
+   Great tool for accessing Windows NTLM authenticating proxy servers. Also great at working-_around_ NTML authenticating proxies.
 
 ## Mac OS X
 
@@ -64,3 +99,8 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 * [Handbrake](https://handbrake.fr)
 
    Great utility for transcoding pretty much any video format into any other video format :)
+
+* [Cntlm](http://cntlm.sourceforge.net)
+
+   Great tool for accessing Windows NTLM authenticating proxy servers. Also great at working-_around_ NTML authenticating proxies.
+
