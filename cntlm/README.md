@@ -9,10 +9,8 @@
 
 * To always launch at startup:
 
-   ```
-   sudo cp -fv /usr/local/opt/cntlm/*.plist /Library/LaunchDaemons
-   sudo chown root /Library/LaunchDaemons/homebrew.mxcl.cntlm.plist
-   ```
+   ```sudo cp -fv /usr/local/opt/cntlm/*.plist /Library/LaunchDaemons```
+   ```sudo chown root /Library/LaunchDaemons/homebrew.mxcl.cntlm.plist```
 
 * To launch immediately:
 
