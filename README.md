@@ -4,7 +4,11 @@ A list of tools, utilities and links that I find useful when configuring a new d
 
 Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools List](http://hanselman.com/tools).
 
-Quick links:
+###Quick links:
+**Git**
+* [Git Config](#git-config)
+
+**Software**
 * [Text Editor](#text-editor)
 * [Source Control](#source-control)
 * [File Compare](#file-compare)
@@ -13,6 +17,14 @@ Quick links:
 * [Networking](#networking)
 * [Screen Capture](#screen-capture)
 * [Image Utils](#image-utils)
+
+## Git Config
+
+* [.gitignore](https://github.com/TheZenDibbler/setup/blob/master/git/.gitignore)
+
+   Git ignore file. This is a slightly customised version of the .gitignore found [here](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore), but includes an exclusion for the Mac OS X *.DS_Store*, which is really useful 
+
+## Software
 
 ### Text Editor
 
@@ -24,7 +36,7 @@ Quick links:
 
 * [Git for Windows](https://git-scm.com/downloads) **[Windows]**
 
-   Git ... and don't forget to setup your [.gitignore](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore)
+   Git ... and don't forget to setup your [.gitignore](https://github.com/TheZenDibbler/setup/blob/master/git/.gitignore) - this is a slightly customised version of the .gitignore found [here](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore), but includes an exclusion for the Mac OS X *.DS_Store*, which is really useful 
 
 * [Source Tree](https://www.sourcetreeapp.com) **[Mac, Windows]**
 
