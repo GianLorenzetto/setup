@@ -22,7 +22,7 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 
 * [.gitignore](https://github.com/TheZenDibbler/setup/blob/master/git/.gitignore)
 
-   Git ignore file. This is a slightly customised version of the .gitignore found [here](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore), but includes an exclusion for the Mac OS X *.DS_Store*, which is really useful 
+   Git ignore file. This is a slightly customised version of the .gitignore found [here](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore), but includes an exclusion for the Mac OS X *.DS_Store* files, which is really useful.
 
 ## Software
 
