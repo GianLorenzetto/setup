@@ -5,56 +5,94 @@ A list of tools, utilities and links that I find useful when configuring a new d
 Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools List](http://hanselman.com/tools).
 
 Quick links:
-* [Windows](#windows)
-* [Mac](#mac os x)
+* [Text Editor](#text-editor)
+* [Source Control](#source-control)
+* [File Compare](#file-compare)
+* [Terminals](#terminals)
+* [System Utils](#system-utils)
+* [Networking](#networking)
+* [Screen Capture](#screen-capture)
+* [Image Utils](#image-utils)
 
-## Windows
+### Text Editor
 
-* [Sublime Text](http://www.sublimetext.com)
+* [Sublime Text](http://www.sublimetext.com) **[MAC, Windows]**
 
    Incredible text editor with a myriad of plugins.
 
-* [Git for Windows](https://git-scm.com/downloads)
+### Source Control
+
+* [Git for Windows](https://git-scm.com/downloads) **[Windows]**
 
    Git ... and don't forget to setup your [.gitignore](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore)
 
-* [Source Tree](https://www.sourcetreeapp.com)
+* [Source Tree](https://www.sourcetreeapp.com) **[MAC, Windows]**
 
    For those rare times when the Git console doesn't cut it, I like Source Tree. There are numerous alternatives, including:
-   * [GitHub for Windows](https://desktop.github.com)
-   * [Git Extensions](http://gitextensions.github.io)
+   * [GitHub for Windows](https://desktop.github.com) **[Windows]**
+   * [Git Extensions](http://gitextensions.github.io) **[Windows]**
 
    I don't use Git GUI's enough to know if one is significant;y beter than another.
 
-* [PoshGit](https://github.com/dahlbyk/posh-git) 
+* [PoshGit](https://github.com/dahlbyk/posh-git) **[Windows]**
 
    Really nice Git enhancements module for PowerShell.
 
-* [Cmder](http://cmder.net)
+### File Commpare
 
-   Fabulous console replacement based on [ConEmu](https://conemu.github.io). Defaults to Monokai colour theme and allows you to run PowerShell side-by-side with Git Bash and a regular console. Nice.
-
-* [Beyond Compare](http://www.scootersoftware.com)
+* [Beyond Compare](http://www.scootersoftware.com) **[MAC, Windows]**
 
    My all time favourite file and folder comparison tool.
 
-* [WinDirStat](https://windirstat.info)
+### Terminals
+
+* [Cmder](http://cmder.net)**[Windows]**
+
+   Fabulous console replacement based on [ConEmu](https://conemu.github.io). Defaults to Monokai colour theme and allows you to run PowerShell side-by-side with Git Bash and a regular console. Nice.
+
+* [iTerm2](https://www.iterm2.com) **[MAC]**
+
+   Nice `Terminal` replacement. Goes very nicely with the next item ...
+
+* [Oh My Zsh!](https://github.com/robbyrussell/oh-my-zsh) **[MAC]**
+
+   Zsh command terminal, with some cool features right out of the box and lots of plugins.
+
+### System Utils
+
+* [WinDirStat](https://windirstat.info) **[Windows]**
 
    Nice free disk usage viewer.
 
-* [Windows SysInternals](https://technet.microsoft.com/en-us/sysinternals/bb545021.aspx)
+* [Windows SysInternals](https://technet.microsoft.com/en-us/sysinternals/bb545021.aspx) **[Windows]**
 
    Some nice utilities for analyszing Windows system processes and performance. Thikn `Task Manager` on steroids. 
 
-* [Fiddler](http://www.telerik.com/fiddler)
+### Networking
+
+* [Fiddler](http://www.telerik.com/fiddler) **[Windows]**
 
    Great free web debugging tool.
 
-* [WireShark](https://www.wireshark.org)
+* [WireShark](https://www.wireshark.org) **[Windows]**
 
    Network analyzer.
 
-* [Snagit](https://www.techsmith.com/snagit.html)
+* [Proxy Switcher](http://proxyswitcher.net) **[Windows]**
+
+   Handy little utility for automatically switching your proxy settings when you're network connection changes. Eg, switching between an ethernet and WiFi connection.
+
+* [Cntlm](http://cntlm.sourceforge.net) **[MAC, Windows]**
+
+   Great tool for accessing Windows NTLM authenticating proxy servers. Also great at working-_around_ NTML authenticating proxies.
+
+### Screen Capture
+
+* [Skitch](https://itunes.apple.com/au/app/skitch-snap.-mark-up.-send./id490505997?mt=8) **[MAC]**
+
+   Free (and paid for Pro edition) screen capture tool for Mac, with some basic but nifty annotation tools. Grab it from your local App Store.
+
+* [Snagit](https://www.techsmith.com/snagit.html) **[Windows]**
 
    Great screen capture tool, although it does a lot more than just grab screenshots. Record video, edit captures plus loads more. Not free though ... if you're just after screen grabs, then:
 
@@ -62,45 +100,19 @@ Quick links:
 
    Great free screen capture tool for Windows.
 
-* [Proxy Switcher](http://proxyswitcher.net)
+### Image Utils
 
-   Handy little utility for automatically switching your proxy settings when you're network connection changes. Eg, switching between an ethernet and WiFi connection.
+* [Paint.NET](http://www.getpaint.net/index.html) **[Windows]**
 
-* [Cntlm](http://cntlm.sourceforge.net)
+   Fabulous free image editor for Windows. Customisable through a large number of available plugins. Just be careful to click on the correct link on the download site.
 
-   Great tool for accessing Windows NTLM authenticating proxy servers. Also great at working-_around_ NTML authenticating proxies.
+* [Gimp](http://www.gimp.org) **[Mac, Windows]**
 
-## Mac OS X
+   Free Photoshop clone. Available for Windows as well, but I much prefer Paint.NET.
 
-* [Sublime Text](http://www.sublimetext.com)
-
-   Incredible text editor with a myriad of plugins.
-
-* [Beyond Compare](http://www.scootersoftware.com)
-
-   My all time favourite file and folder comparison tool.
-
-* [Skitch](https://itunes.apple.com/au/app/skitch-snap.-mark-up.-send./id490505997?mt=8)
-
-   Free (and paid for Pro edition) screen capture tool for Mac, with some basic but nifty annotation tools. Grab it from your local App Store.
-
-* [iTerm2](https://www.iterm2.com)
-
-   Nice `Terminal` replacement. Goes very nicely with the next item ...
-
-* [Oh My Zsh!](https://github.com/robbyrussell/oh-my-zsh)
-
-   Zsh command terminal, with some cool features right out of the box and lots of plugins.
-
-* [Source Tree](https://www.sourcetreeapp.com)
-
-   For those rare times when the Git console doesn't cut it,
-
-* [Handbrake](https://handbrake.fr)
+* [Handbrake](https://handbrake.fr) **[MAC, Windows]**
 
    Great utility for transcoding pretty much any video format into any other video format :)
 
-* [Cntlm](http://cntlm.sourceforge.net)
 
-   Great tool for accessing Windows NTLM authenticating proxy servers. Also great at working-_around_ NTML authenticating proxies.
 
