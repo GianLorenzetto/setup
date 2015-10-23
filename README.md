@@ -30,7 +30,10 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 
 * [Sublime Text](http://www.sublimetext.com) **[Mac, Windows]**
 
-   Incredible text editor with a myriad of plugins.
+   Incredible text editor with a myriad of plugins, a couple of my current favourites are:
+
+   * [Jekyll package](https://packagecontrol.io/packages/Jekyll)
+   * [MarkdownEditing Package](https://github.com/SublimeText-Markdown/MarkdownEditing)
 
 ### Source Control
 
@@ -58,7 +61,7 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 
 ### Terminals
 
-* [Cmder](http://cmder.net)**[Windows]**
+* [Cmder](http://cmder.net) **[Windows]**
 
    Fabulous console replacement based on [ConEmu](https://conemu.github.io). Defaults to Monokai colour theme and allows you to run PowerShell side-by-side with Git Bash and a regular console. Nice.
 
@@ -66,9 +69,9 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 
    Nice `Terminal` replacement. Goes very nicely with the next item ...
 
-* [Oh My Zsh!](https://github.com/robbyrussell/oh-my-zsh) **[Mac]**
+* [Oh My Git](https://github.com/arialdomartini/oh-my-git) **[Mac]**
 
-   Zsh command terminal, with some cool features right out of the box and lots of plugins.
+   Super powerful Git prompt.
 
 ### System Utils
 
