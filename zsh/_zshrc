@@ -1,0 +1,21 @@
+
+# Path
+
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+
+# Antigen fun
+
+# oh-my-git 
+source "$HOME/.antigen/antigen.zsh"
+
+antigen-use oh-my-zsh
+antigen-bundle arialdomartini/oh-my-git
+antigen theme arialdomartini/oh-my-git-themes oppa-lana-style
+
+antigen-apply
+
+# Custom prompt
+#  - Used when not in a Git repo (otherwise the theme above is used)
+
+omg_ungit_prompt='\e[0;33m%~
+\e[0;32m 𝛌 \e[0m'
