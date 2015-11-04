@@ -29,7 +29,7 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 
 ## PowerShell Config
 
-* Add [aliases]([https://github.com/GianLorenzetto/setup/tree/master/powershell#aliases) to PowerShell profile.
+* Add [aliases](https://github.com/GianLorenzetto/setup/tree/master/powershell#aliases) to PowerShell profile.
 
 ## Software
 
