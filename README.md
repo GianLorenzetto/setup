@@ -7,7 +7,9 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 ###Quick links:
 **Git**
 * [Git Config](#git-config)
-* [PowerShell Config](#posh-config)
+
+**PowerShell**
+* [PowerShell Config](#powershell-config)
 
 **Software**
 * [Text Editor](#text-editor)
