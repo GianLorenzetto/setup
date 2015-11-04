@@ -7,6 +7,7 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 ###Quick links:
 **Git**
 * [Git Config](#git-config)
+* [PowerShell Config](#posh-config)
 
 **Software**
 * [Text Editor](#text-editor)
@@ -23,6 +24,10 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 * [.gitignore](https://github.com/TheZenDibbler/setup/blob/master/git/.gitignore) **[VisualStudio]**
 
    Git ignore file for use with VisualStudio projects. This is a slightly customised version of the .gitignore found [here](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore), but includes an exclusion for the Mac OS X *.DS_Store* files, which is really useful if you run Paralles for Mac and access your Mac filesystem.
+
+## PowerShell Config
+
+* Add [aliases]([https://github.com/GianLorenzetto/setup/tree/master/powershell#aliases) to PowerShell profile.
 
 ## Software
 
