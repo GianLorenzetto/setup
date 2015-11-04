@@ -26,6 +26,7 @@ Looking for a new utility? I always start at [Scott Hanselman's Ultimate Tools L
 * [.gitignore](https://github.com/TheZenDibbler/setup/blob/master/git/.gitignore) **[VisualStudio]**
 
    Git ignore file for use with VisualStudio projects. This is a slightly customised version of the .gitignore found [here](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore), but includes an exclusion for the Mac OS X *.DS_Store* files, which is really useful if you run Paralles for Mac and access your Mac filesystem.
+* Configure [aliases](https://github.com/GianLorenzetto/setup/blob/master/git/aliases.md).
 
 ## PowerShell Config
 
